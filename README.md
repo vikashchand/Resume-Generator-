@@ -15,7 +15,6 @@ Welcome to my Resume Builder Web App repository! Craft professional resumes effo
 
 - **AWS Services:** Cognito, S3, IAM, Amplify
 
-
 ## Getting Started 🌐
 
 1. Clone the repository: `git clone https://github.com/your-username/your-repo.git`
@@ -26,7 +25,6 @@ Welcome to my Resume Builder Web App repository! Craft professional resumes effo
 ## Contributions 🤝
 
 I welcome contributions! Feel free to open issues, create pull requests, or reach out with suggestions.
-
 
 ![Screenshot 2024-01-28 063828](https://github.com/vikashchand/Resume-Generator-/assets/72156896/ebd2699c-c8c1-45b8-af29-9a728fa6bc7f)
 ![Screenshot 2024-01-28 063856](https://github.com/vikashchand/Resume-Generator-/assets/72156896/c8cfd955-42b6-43e0-b9ab-391604bf70ba)
@@ -39,7 +37,5 @@ I welcome contributions! Feel free to open issues, create pull requests, or reac
 ## License 📝
 
 This project is licensed under the [MIT License](LICENSE).
-
-
 
 Happy Resume Building! 🚀✨
