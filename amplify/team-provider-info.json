@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-reactresumebildermai-dev-54036-authRole",
+      "UnauthRoleArn": "arn:aws:iam::130610726742:role/amplify-reactresumebildermai-dev-54036-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::130610726742:role/amplify-reactresumebildermai-dev-54036-authRole",
+      "Region": "eu-north-1",
+      "DeploymentBucketName": "amplify-reactresumebildermai-dev-54036-deployment",
+      "UnauthRoleName": "amplify-reactresumebildermai-dev-54036-unauthRole",
+      "StackName": "amplify-reactresumebildermai-dev-54036",
+      "StackId": "arn:aws:cloudformation:eu-north-1:130610726742:stack/amplify-reactresumebildermai-dev-54036/b655bb50-bd71-11ee-a40f-06518c89c15e",
+      "AmplifyAppId": "dx3h31vnk8fx6"
+    },
+    "categories": {
+      "auth": {
+        "reactresumebildermaic9817f8f": {}
+      }
+    }
+  }
+}

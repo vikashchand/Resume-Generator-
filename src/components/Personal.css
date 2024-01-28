@@ -1,0 +1,108 @@
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	font-family: "Nunito", sans-serif;
+}
+
+body {
+  margin-top: 0px;
+  background-color: #e5e5f7;
+  opacity: 0.8;
+  background-image:  linear-gradient(30deg, #deb3e9 12%, transparent 12.5%, transparent 87%, #deb3e9 87.5%, #deb3e9), linear-gradient(150deg, #deb3e9 12%, transparent 12.5%, transparent 87%, #deb3e9 87.5%, #deb3e9), linear-gradient(30deg, #deb3e9 12%, transparent 12.5%, transparent 87%, #deb3e9 87.5%, #deb3e9), linear-gradient(150deg, #deb3e9 12%, transparent 12.5%, transparent 87%, #deb3e9 87.5%, #deb3e9), linear-gradient(60deg, #deb3e977 25%, transparent 25.5%, transparent 75%, #deb3e977 75%, #deb3e977), linear-gradient(60deg, #deb3e977 25%, transparent 25.5%, transparent 75%, #deb3e977 75%, #deb3e977);
+  background-size: 16px 28px;
+  background-position: 0 0, 0 0, 8px 14px, 8px 14px, 0 0, 8px 14px;
+}
+
+.container {
+
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  overflow: hidden;
+}
+
+.main-div {
+  width: 50%;
+  margin: 30px auto ;
+  position: relative;
+  background-color: white;
+  padding: 3% 20px ;
+
+
+
+  width: 400px;
+  min-height: 250px;
+  background: rgba(245, 232, 232, 0.53);
+  box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+  backdrop-filter: blur( 18px );
+  -webkit-backdrop-filter: blur( 18px );
+  border: 5px solid rgba(27, 13, 13, 0.18);
+  border-radius: 5px solid black ;
+  padding: 1.5rem;
+  z-index: 10;
+  color: rgb(255, 255, 255);
+  /* box-shadow: 1px 1px 5px 1px #000,-1px 1px 5px 1px #000,1px -1px 5px 1px #000,-1px -1px 5px 1px #000; */
+}
+
+.btndiv {
+  width: 100%;
+  position: relative;
+}
+
+.tf {
+  margin: 20px 0px;
+}
+
+.btn {
+  background: none;
+  border: none;
+  text-align: center;
+  font-size: 1rem;
+  color: whitesmoke;
+  background-color: #000000;
+  padding: 0.8rem 1.8rem;
+  border-radius: 2rem;
+  cursor: pointer;
+}
+.dflexEnd {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.dflex {
+  width: 100%;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+
+.textField{
+  border-color: rgb(12, 0, 0);
+  outline-color: rgb(5, 5, 5);
+}
+
+
+
+/* Experince.jsx file css */
+
+
+.dflexDiv{
+  width:100;
+  display: grid;
+  grid-template-columns: repeat(2,1fr);
+  justify-content: space-around;
+  grid-gap: 20px;
+}
+h3{
+  padding-top:20px;
+}
+hr{
+  width: 100%;
+  margin:20px 0px;
+}

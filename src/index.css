@@ -1,0 +1,22 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+
+body {
+  max-width: 100vw;
+  background-color: #e5e5f7;
+opacity: 0.8;
+background-image:  linear-gradient(30deg, #deb3e9 12%, transparent 12.5%, transparent 87%, #deb3e9 87.5%, #deb3e9), linear-gradient(150deg, #deb3e9 12%, transparent 12.5%, transparent 87%, #deb3e9 87.5%, #deb3e9), linear-gradient(30deg, #deb3e9 12%, transparent 12.5%, transparent 87%, #deb3e9 87.5%, #deb3e9), linear-gradient(150deg, #deb3e9 12%, transparent 12.5%, transparent 87%, #deb3e9 87.5%, #deb3e9), linear-gradient(60deg, #deb3e977 25%, transparent 25.5%, transparent 75%, #deb3e977 75%, #deb3e977), linear-gradient(60deg, #deb3e977 25%, transparent 25.5%, transparent 75%, #deb3e977 75%, #deb3e977);
+background-size: 16px 28px;
+background-position: 0 0, 0 0, 8px 14px, 8px 14px, 0 0, 8px 14px;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+

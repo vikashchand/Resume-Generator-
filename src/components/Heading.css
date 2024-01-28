@@ -1,0 +1,13 @@
+.h {
+  width: 100%;
+  border: 1px inset #000;
+  border-radius: 4px solid black;
+  text-align: center;
+}
+
+.h h1 {
+  padding: 15px 0px;
+  text-transform: uppercase;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
